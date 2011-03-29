@@ -195,6 +195,13 @@ projects[webform][version] = "3.9"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.3"
 
+projects[gmap][subdir] = "contrib"
+projects[gmap][subdir] = "1.1"
+
+projects[keys][subdir] = "contrib"
+projects[keys][subdir] = "2.0"
+
+
 ; Themes
 projects[tao][version] = "3.2"
 
